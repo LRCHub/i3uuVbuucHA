@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Go Girl ～恋のヴィクトリー～",
+  "base_artist": "モーニング娘。",
+  "createdAt": "2026-02-15T01:04:51.328940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go Girl",
+      "artist": "Young Boss, Trina & Pitbull",
+      "has_synced": true,
+      "path": "select/01_Go_Girl_Young_Boss,_Trina_&_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go Girl",
+      "artist": "Pitbull, Trina, Young Boss",
+      "has_synced": true,
+      "path": "select/02_Go_Girl_Pitbull,_Trina,_Young_Boss.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Go Girl",
+      "artist": "The 2 Live Crew",
+      "has_synced": false,
+      "path": "select/03_You_Go_Girl_The_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "you go girl",
+      "artist": "2 Live Crew",
+      "has_synced": false,
+      "path": "select/04_you_go_girl_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Go Girl",
+      "artist": "Ciara feat. T-Pain",
+      "has_synced": false,
+      "path": "select/05_Go_Girl_Ciara_feat._T-Pain.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "U-Go Girl",
+      "artist": "Lee Hyori",
+      "has_synced": true,
+      "path": "select/06_U-Go_Girl_Lee_Hyori.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go Girl",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/07_Go_Girl_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Go Girl (instrumental)",
+      "artist": "Pitbull",
+      "has_synced": false,
+      "path": "select/08_Go_Girl_(instrumental)_Pitbull.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Go Girl (Juke Jams Remix)",
+      "artist": "Pitbull",
+      "has_synced": false,
+      "path": "select/09_Go_Girl_(Juke_Jams_Remix)_Pitbull.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Please Don't Go Girl",
+      "artist": "New Kids On the Block",
+      "has_synced": false,
+      "path": "select/10_Please_Don't_Go_Girl_New_Kids_On_the_Block.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Please Dont Go Girl",
+      "artist": "NKOTB",
+      "has_synced": true,
+      "path": "select/11_Please_Dont_Go_Girl_NKOTB.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Go Girl (feat. Trina And Young Boss)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/12_Go_Girl_(feat._Trina_And_Young_Boss)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Please Don't Go Girl (7'' Version)",
+      "artist": "New Kids On The Block",
+      "has_synced": true,
+      "path": "select/13_Please_Don't_Go_Girl_(7''_Version)_New_Kids_On_The_Block.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Go Girl (feat. Trina & Young Boss)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/14_Go_Girl_(feat._Trina_&_Young_Boss)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Go Girl (Promo Only clean edit)",
+      "artist": "Ciara feat. T-Pain",
+      "has_synced": false,
+      "path": "select/15_Go_Girl_(Promo_Only_clean_edit)_Ciara_feat._T-Pain.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Go Girl (Promo Only Clean Edit)",
+      "artist": "Ciara Ft. T-Pain",
+      "has_synced": false,
+      "path": "select/16_Go_Girl_(Promo_Only_Clean_Edit)_Ciara_Ft._T-Pain.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "U-Go-Girl (With Nassun)",
+      "artist": "Lee Hyori",
+      "has_synced": true,
+      "path": "select/17_U-Go-Girl_(With_Nassun)_Lee_Hyori.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Go Girl~恋のヴィクトリー~",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/pl_01_Go_Girl~恋のヴィクトリー~_モーニング娘。.txt"
+    }
+  ]
+}
